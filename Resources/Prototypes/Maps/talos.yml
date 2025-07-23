@@ -76,5 +76,5 @@
             #StationAi: [ 1, 1 ]
             Borg: [ 1, 7 ]
             #Etc
-            Passenger: [ -1. -1 ]
+            Passenger: [ -1 , -1 ]
             Anomaly: [ 1 , 2 ]
