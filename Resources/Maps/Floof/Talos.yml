@@ -8753,8 +8753,6 @@ entities:
       pos: -63.5,62.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 22111
 - proto: AirTank
@@ -54645,8 +54643,6 @@ entities:
       pos: -61.5,60.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 22111
 - proto: FirelockGlass
@@ -56196,8 +56192,6 @@ entities:
       pos: -61.5,61.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 22111
 - proto: Fireplace
@@ -83225,8 +83219,6 @@ entities:
       pos: -63.5,60.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 22111
 - proto: GasVentScrubber
@@ -84624,8 +84616,6 @@ entities:
       pos: -63.5,61.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 22111
 - proto: GasVolumePump
