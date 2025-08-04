@@ -66,8 +66,8 @@ namespace Content.IntegrationTests.Tests
             "Rad",
             "Meta",
             "Kettle", // Floof
+            "talos", // Floof			
             "Train", // Floof
-            "talos", // Floof
             "Fland", // Floof,
             "Amber", // Apparently, floof?
             "Europa"
